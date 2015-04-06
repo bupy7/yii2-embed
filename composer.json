@@ -1,0 +1,21 @@
+{
+    "name": "bupy7/yii2-embed",
+    "description": "Wrapper for PHP library to get information from any web page.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","widget","embed","video","youtube","vimeo","instagram","faccebook","rutube","vkontakte","oembed","opengraph","twitter-cards"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Belosludcev Vasilij",
+            "email": "bupy765@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bupy7\\embed\\": ""
+        }
+    }
+}
