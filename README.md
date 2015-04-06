@@ -30,7 +30,8 @@ Once the extension is installed, simply use it in your code by  :
 ```php
 <?= \bupy7\embed\Embed::widget([
     'url' => 'http://www.youtube.com/watch?v=XflzWihgHRc',
-]); ?>```
+]); ?>
+```
 
 ##License
 
