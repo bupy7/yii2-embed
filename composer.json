@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*"
+        "yiisoft/yii2": "*",
+        "embed/embed": "*"
     },
     "autoload": {
         "psr-4": {
