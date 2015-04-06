@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist bupy7/yii2-embed "*"
+php composer.phar require --prefer-dist bupy7/yii2-embed "@dev"
 ```
 
 or add
 
 ```
-"bupy7/yii2-embed": "*"
+"bupy7/yii2-embed": "@dev"
 ```
 
 to the require section of your `composer.json` file.
