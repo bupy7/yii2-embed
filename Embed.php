@@ -19,7 +19,7 @@ class Embed extends Widget
     public $url;
     
     /**
-     * @var string Path to view with information about page.
+     * @var string Alias to view for display information about page.
      * @example @app/path/to/view
      */
     public $pathToView = 'info';
