@@ -1,6 +1,6 @@
 yii2-embed
 ==========
-Wrapper for PHP library to get information from any web page.
+Wrapper for PHP library https://github.com/oscarotero/Embed to get information from any web page.
 
 Installation
 ------------
@@ -28,4 +28,10 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \bupy7\embed\AutoloadExample::widget(); ?>```
+<?= \bupy7\embed\Embed::widget([
+    'url' => 'http://www.youtube.com/watch?v=XflzWihgHRc',
+]); ?>```
+
+##License
+
+yii2-embed is released under the BSD 3-Clause License.
