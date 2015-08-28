@@ -9,6 +9,7 @@ use Embed\Embed as EmbedLibrary;
  * Wrapper for PHP library https://github.com/oscarotero/Embed to get information from any web page.
  * 
  * @author Vasilij Belosludcev http://mihaly4.ru
+ * @since 1.0.0
  */
 class Embed extends Widget
 {
