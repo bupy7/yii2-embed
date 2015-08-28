@@ -5,6 +5,7 @@
     "keywords": ["yii2","extension","widget","embed","video","youtube","vimeo","instagram","faccebook","rutube","vkontakte","oembed","opengraph","twitter-cards"],
     "license": "BSD-3-Clause",
     "homepage": "https://github.com/bupy7/yii2-embed",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Belosludcev Vasilij",
